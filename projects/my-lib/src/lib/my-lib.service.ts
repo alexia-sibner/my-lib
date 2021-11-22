@@ -1,9 +1,12 @@
 import { Injectable } from '@angular/core';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
 export class MyLibService {
+  constructor() {}
 
-  constructor() { }
+  public getNameService(): string {
+    return 'Library service';
+  }
 }
