@@ -1,7 +1,7 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # This library is a submodule of the main project
-# DEVELOP BRANCH
+# DEVELOP BRANCH - upstream modification
 
 # compiled output
 /dist
